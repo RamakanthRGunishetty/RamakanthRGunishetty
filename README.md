@@ -36,7 +36,7 @@
 <ul align="center">
   <li>🎵 I listen to music while coding, and it helps me stay focused and in the zone.</li>
   <li>💻 Coding is my passion, and I love exploring new technologies to build innovative projects.</li>
-  <li>🏏 I'm a cricket enthusiast and enjoy playing and watching cricket games with friends.</li>
+  <li>🏏 I'm a cricket enthusiast and enjoy playing and watching cricket games </li>
 </ul>
 
 <!-- Footer with a fun sign-off -->
