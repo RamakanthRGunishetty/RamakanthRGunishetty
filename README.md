@@ -26,7 +26,7 @@
 <!-- Let's Connect Section -->
 <h2 align="center">🌱 Let's Connect! 🌱</h2>
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Your%20Email%20Here-orange" alt="Email"></a>
+  <a href="mailto:ramakanthrg2003@gmail.com"><img src="https://img.shields.io/badge/Email-Your%20Email%20Here-orange" alt="Email"></a>
   <a href="https://linkedin.com/in/ramakanth-r-gunishetty-a679a0229/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Follow%20Me-blue" alt="LinkedIn"></a>
   <a href="https://instagram.com/me_ramakanth26" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow%20Me-red" alt="Instagram"></a>
 </p>
