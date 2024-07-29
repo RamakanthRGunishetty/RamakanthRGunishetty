@@ -86,9 +86,6 @@
   <a href="https://linkedin.com/in/ramakanth-r-gunishetty/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Follow%20Me-blue" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com/me_ramakanth26" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-red" alt="Instagram">
-  </a>
 </p>
 
 <!-- Fun Section -->
