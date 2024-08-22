@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Ramakanth R Gunishetty</h1>
-<h3 align="center">🚀 MERN Stack Web Developer 🚀</h3>
+<!-- <h3 align="center">🚀 MERN Stack Web Developer 🚀</h3> -->
 
 <!-- Profile Views and Who's Viewing Section -->
 <p align="left">
@@ -67,15 +67,17 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" />
   </a>
-  </a>
-  </a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache Spark" width="40" height="40" />
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
   </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" width="40" height="40" />
+  </a>
 </p>
+
 
 <!-- Let's Connect Section -->
 <h2 align="center">🌱 Let's Connect! 🌱</h2>
